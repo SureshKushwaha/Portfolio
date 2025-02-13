@@ -1,20 +1,19 @@
 # Hi there, I'm Suresh Kushwaha 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate Network Security Engineer with a keen interest in creating firewall profiles and enhancing cybersecurity measures.
 
 ## 🌱 About Me
-- 💻 I love coding and exploring new technologies.
-- 🔭 Currently working on exciting projects in web development, AI, and cloud computing.
-- 🌱 Always learning and improving my skills.
+- 🔒 I specialize in network security and firewall management.
+- 💻 I have a background in software development and cybersecurity.
+- 🌱 Always learning and improving my skills in network security.
 - 🚀 Open to collaborating on interesting and impactful projects.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Web Development:** HTML, CSS, React, Angular, Node.js
-- **AI & Machine Learning:** TensorFlow, PyTorch, Scikit-learn
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Security Tools:** Firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS)
+- **Languages:** Python, JavaScript, Bash
+- **Networking:** TCP/IP, VPN, VLAN, DHCP
+- **Cloud Security:** AWS, Azure, Google Cloud
+- **Tools:** Wireshark, Nmap, Metasploit
 
 ## 📈 GitHub Stats
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SureshKushwaha&show_icons=true&theme=radical)
